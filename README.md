@@ -1,5 +1,10 @@
 # Linear-Regression
-
+	Regression Dataset 
+		The UCI Wine Quality dataset lists 11 chemical measurements of 4898 white wine
+		samples as well as an overall quality per sample, as determined by wine connoisseurs. See winequalitywhite.csv. 
+		We split the data into training, validation and test sets in the preprocessing code. You will use
+		linear regression to predict wine quality from the chemical measurement features.
+		
 	Problem 1.1 Linear regression
 		Implement linear regression and return the model parameters.
 			function linear_regression_noreg(X, y).
